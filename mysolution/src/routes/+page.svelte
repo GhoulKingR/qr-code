@@ -18,6 +18,7 @@
     border-radius: 20px;
     display: block;
     padding: 15px;
+    box-shadow: 0px 0px 19px hsl(220deg 15% 55%);
   }
 
   .center-hor {
